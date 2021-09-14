@@ -35,7 +35,7 @@ div {
 
 #red {
     background-color: #ff0000;
-    text-align: left;
+    text-align: right;
 }
 
 #blue {
@@ -50,7 +50,7 @@ div {
 }
 
 #yellow h2 {
-    text-shadow: 4px 4px 2px #808080;
+    text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 #green {
@@ -62,5 +62,7 @@ footer p {
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
 
 }
